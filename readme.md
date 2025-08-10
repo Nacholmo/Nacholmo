@@ -4,6 +4,7 @@
 💻 Exploring the intersection of **art, technology, and AI**
 
 🌐 **Website:** [nacholmo.com](https://nacholmo.com)
+
 🛠 **Currently:** Building AI models in my free time, experimenting with creative tech workflows, and breaking things on Linux (on purpose… mostly).
 
 ---
