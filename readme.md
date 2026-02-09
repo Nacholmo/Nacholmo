@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nacholmo
 
-🎨 **Digital Arts Student** • 🐧 **Linux Enthusiast** • 🇦🇷 **From Argentina**
+🎨 **Bachelor's degree in Digital Arts** • 🐧 **Linux Enthusiast** • 🇦🇷 **From Argentina**
 
 💻 Exploring the intersection of **art, technology, and AI**
 
