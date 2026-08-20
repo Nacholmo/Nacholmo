@@ -6,4 +6,4 @@
 
 🌐 **Website:** [nacholmo.com](https://nacholmo.com)
 
-🛠 **Currently:** Building models in my free time, experimenting with creative tech workflows
+🛠 **Currently:** Building models in my free time and experimenting with creative tech workflows
