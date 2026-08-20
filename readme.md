@@ -2,7 +2,7 @@
 
 🎨 **Bachelor's degree in Digital Arts** • 🐧 **Linux Enthusiast** • 🇦🇷 **From Argentina**
 
-💻 Exploring the intersection of **art and technologyI**
+💻 Exploring the intersection of **art and technology**
 
 🌐 **Website:** [nacholmo.com](https://nacholmo.com)
 
